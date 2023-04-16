@@ -2,4 +2,4 @@
 host = 'localhost'
 user = 'root'
 password = 'keen'
-database = 'contact_management'
+database = 'customer_communication_data'
